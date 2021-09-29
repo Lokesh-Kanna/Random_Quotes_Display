@@ -26,4 +26,7 @@ body {
         left: 35vw;
         top: 70vh;
     }
+    #content-div {
+        top: 27vh;
+    }
 }
